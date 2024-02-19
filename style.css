@@ -1,3 +1,9 @@
-.p {
-  text-align: center;
+.body {background-color: #FAEBD7;}
+.h1 {text-align: center;}
+.p {text-align: center;}
+
+.1stDiv {
+border: 2px outset red;
+background-color: lightblue;
+text-align: center;
 }
