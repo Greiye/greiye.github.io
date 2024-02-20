@@ -1,5 +1,5 @@
 body {
-background-image: url("https://github.com/Greiye/greiye.github.io/blob/main/GridPaperBackground.png");
+background-image: src=("GridPaperBackground.png");
 background-size: contain; /* Adjust as needed */
 background-repeat: no-repeat;
 }
