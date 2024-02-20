@@ -1,5 +1,5 @@
 body {
-background-image: src="GridPaperBackground.png";
+background-image: "GridPaperBackground.png";
 background-size: contain, cover; /* Adjust as needed */
 background-repeat: no-repeat;
 }
