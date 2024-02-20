@@ -1,5 +1,7 @@
 body {
-  background-image: linear-gradient(AntiqueWhite, BurlyWood);
+background-image: url('https://github.com/Greiye/greiye.github.io/blob/main/GridPaperBackground.png?raw=true');
+background-size: cover; /* Adjust as needed */
+background-repeat: no-repeat;
 }
 
 h1,
