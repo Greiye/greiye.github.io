@@ -34,3 +34,7 @@ footer {
   background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
   margin: 0 auto; /* Center the element horizontally */
 }
+
+.container {
+  text-align: center;
+}
