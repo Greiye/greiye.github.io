@@ -1,5 +1,5 @@
 body {
-background-image: url("https://github.com/Greiye/greiye.github.io/blob/main/GridPaperBackground.png?raw=true");
+background: url("https://github.com/Greiye/greiye.github.io/blob/main/GridPaperBackground.png?raw=true");
 background-size: contain, cover; /* Adjust as needed */
 background-repeat: repeat;
 }
