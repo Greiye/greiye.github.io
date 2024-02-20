@@ -1,26 +1,33 @@
+body {
+  background-image: linear-gradient(AntiqueWhite, BurlyWood);
+}
 
-body {background-image: linear-gradient(AntiqueWhite, BurlyWood);}
-h1 {font: 1em "Fira Sans", sans-serif; text-align: center;}
-p {font: 1em "Fira Sans", sans-serif; text-align: center;}
-footer {text-align:center}
+h1,
+p {
+  font: 1em "Fira Sans", sans-serif;
+  text-align: center;
+}
 
-
+footer {
+  text-align: center;
+}
 
 .titlediv {
-width: center;
-border: 1px solid;
-border-radius: 12px;
-padding: 5px 5px 5px 5px;
-text-align: center;
-margin-bottom: 5px;
+  width: 50%; /* Adjust the width as needed */
+  border: 1px solid;
+  border-radius: 12px;
+  padding: 5px;
+  text-align: center;
+  margin: 0 auto; /* Center the element horizontally */
+  margin-bottom: 5px;
 }
 
 .shadowbox {
-	color: Brown;
-	width:center;
-	border: 1px solid #333;
-	box-shadow: 8px 8px 4px #444;
-	padding: 8px 12px;
-	background-image: linear-gradient (180deg, #fff, #ddd 40%, #ccc);
+  color: Brown;
+  width: 50%; /* Adjust the width as needed */
+  border: 1px solid #333;
+  box-shadow: 8px 8px 4px #444;
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  margin: 0 auto; /* Center the element horizontally */
 }
-
