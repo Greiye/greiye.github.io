@@ -1,5 +1,5 @@
 body {
-background-image: "GridPaperBackground.png";
+background-image: url('GridPaperBackground.png';
 background-size: contain, cover; /* Adjust as needed */
 background-repeat: no-repeat;
 }
