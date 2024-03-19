@@ -1,8 +1,30 @@
 body {
+    background-image: url("images/medievaltownfreewallpaper.png");
     background-color: rgb(207, 196, 180);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
     text-align: center;
 }
 
+section {
+  margin: 1%;
+  background-color: #ebe2ddef;
+  border-radius: 5px;
+}
+
+article {
+background-color: #ebe2ddef;
+border-radius: 5px;
+padding: 1%;
+}
+
+summary{
+  font-variant: small-caps;
+}
+h1 {
+  background-color: #ebe2ddef;
+  border-radius: 5px;
+}
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -30,11 +52,11 @@ body {
   }
   
   .topnav a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #c72c2c;
+    color: rgb(0, 0, 0);
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: #ac2e2591;
     color: white;
   }

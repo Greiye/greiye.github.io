@@ -8,16 +8,43 @@
 </head>
 <body>
     <main>
+        <!-- Top Navigation Menu -->
+        <div class="topnav">
+          <a href="#home" class="active">World of Erubounesu</a>
+          <div id="myLinks">
+            <a href="WorldofEberesonu.html">Main</a>
+            <a href="WorldofEberesonuPreviousSessions.html">Previous Sessions</a>
+            <a href="WorldofEberesonuLore.html">Lore</a>
+            <a href="WorldofEberesonuItems.html">Items</a>
+            <a href="WorldofEberesonuParty.html">Party</a>
+            <a href="WorldofEberesonuGlossary.html">Glossary</a>
+          </div>
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+        <!--End of Nav Menu-->
+        <script>
+          function myFunction() {
+            var x = document.getElementById("myLinks");
+            if (x.style.display === "block") {
+              x.style.display = "none";
+            } else {
+              x.style.display = "block";
+            }
+          }
+          </script>
+          <!--Navigation Menu Script-->
         <h1>This is the Glossary Page.</h1>
-        <div>
+        <article>
             <p>
                 The Glossary will be about
                 <br>House Rules
                 <br>Destiny Points
                 <br>Kill Count
             </p>
-        </div>
-        <h1><a href="WorldofEberesonu.html">Link to 'Menu' Page.</a></h1>
+          </article>
+
     </main>
 </body>
 
