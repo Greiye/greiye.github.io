@@ -2,7 +2,8 @@ body {
     background-image: url("images/medievaltownfreewallpaper.png");
     background-color: rgb(207, 196, 180);
     background-repeat: no-repeat;
-    background-size: 100vw 100vh;
+    background-size: 200%;
+    background-attachment: fixed;
     text-align: center;
 }
 
