@@ -5,26 +5,53 @@ body {
     background-size: 200%;
     background-attachment: fixed;
     text-align: center;
+    font-variant: small-caps;
 }
 
 section {
-  margin: 1%;
+  margin: 10px;
   background-color: #ebe2ddef;
+  border: #333 outset 1px;
   border-radius: 5px;
+
+  padding: 5px;
 }
 
 article {
 background-color: #ebe2ddef;
 border-radius: 5px;
-padding: 1%;
+padding: 5px;
 }
 
-summary{
+summary {
   font-variant: small-caps;
 }
+article {
+  background-color: #dfd5cf;
+  border: #333 outset 1px ;
+  margin: 5px;
+  padding: 5px;
+}
+
+details {
+  border: #33333321 outset 1px;
+  margin: 5px;
+  padding: 5px;
+}
 h1 {
-  background-color: #ebe2ddef;
   border-radius: 5px;
+}
+dt {
+  font-weight: bold;
+  font-size: large;
+  text-align: left;
+}
+dd {
+  text-align: left;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
 }
 .topnav {
     overflow: hidden;
