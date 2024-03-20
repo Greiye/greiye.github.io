@@ -8,3 +8,12 @@ This is all quite cool. quite fun.
 I focus on the interactive.
 
  don't use <object>, use <iframe.> inline frame.
+
+ Works.
+ 
+ There's an embed feature right from itch.io.
+The Gdevelop game required a web server. idk why. The format called for it.
+The whole game was about 3mbs total.
+
+
+ Github pages allows for only 50mbs.
