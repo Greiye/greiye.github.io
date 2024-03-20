@@ -1,0 +1,8 @@
+Okay.
+Still getting the hang of doing all this commits stuff.
+I'm getting better, though.
+Now I'm doing all my commits from VSCode.
+breakthrough - using <object> to connect html pages inside each other. It's cool. nesting stuff.
+I can connect folders now.
+This is all quite cool. quite fun.
+I focus on the interactive. 
