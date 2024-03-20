@@ -5,4 +5,6 @@ Now I'm doing all my commits from VSCode.
 breakthrough - using <object> to connect html pages inside each other. It's cool. nesting stuff.
 I can connect folders now.
 This is all quite cool. quite fun.
-I focus on the interactive. 
+I focus on the interactive.
+
+ don't use <object>, use <iframe.> inline frame.
