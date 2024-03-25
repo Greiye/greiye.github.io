@@ -1,0 +1,101 @@
+March 1
+
+Inline Style  - In style, the style applies specifically in the one string.
+Embedded Style - It's in the html
+External Style - CSS file is elsewhere.
+
+March 2
+Inheritance of CSS
+
+Selectors
+
+You got Separate Selectors.
+Two Classes.
+
+ul
+{
+color: red;
+}
+
+or, tg {
+color: red;
+}
+
+Universal Selector?
+
+Child Selector? (<)
+
+So there's
+p em {background: yellow;}
+p >em {background: green;}
+
+This makes <strong><em>this</em></strong>
+Because its not exactly <em>, it's yellow.
+
+the child selector has to be exactly the selector. the tag.
+
+Combinators 
+Attribute Selector (^=)
+Pseudo-Element Selector (::)
+
+So this part of the textbook 
+5.4.9 CSS Variables
+
+is about the tags used and colors.
+Forgot about the HEx Codes. I learned that a long time ago.
+It's a lot. But I can handle it.
+
+Always think with the Viewport Height.
+
+CDN Content Delivery Network.
+
+March 4
+Let's review the Test.
+
+Flex Container
+
+Could be items for sale on craigslist.
+
+Hence, how a list view can be turned into a gallery view.
+
+
+Flex Direction
+
+6.3
+Positioning Elements
+
+.Card 's 
+
+
+.SCSS Sass Cascade Style Sheets
+
+Sass Script can do conditional logic and looping
+
+If ____ else, _____
+
+Bootstrap Frameworks.
+
+Uses HTML, CSS and Javascript.
+
+March 5th.
+
+Debugging Tools
+
+This Chapter 7.
+Getting Close to the end.
+After this, I gotta re-read.
+
+
+
+End of the Week is 9.
+
+
+GEEEEEZ I haven't touch this in like 10 days.
+
+Step up. DO it for future me.
+
+OKay okay.
+
+Learning a load of HTML/CSS. having fun.
+
+
