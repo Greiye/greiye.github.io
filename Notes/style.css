@@ -1,0 +1,24 @@
+body {
+    background-image: url('PhilippinePixelisometric.png');
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url('PhilippinePixelisometric.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+h1 {
+    border: 1px solid;
+    border-radius: 5px;
+}
+details {
+    border: 1px solid;
+    border-radius: 5px;
+}
+summary {
+    font-size: large;
+    font-weight: 500;
+}
+
+p {
+    text-align: left;
+}
