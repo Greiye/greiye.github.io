@@ -4,6 +4,7 @@
         <title>Mikey Organization</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="style.css" />
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     </head>
     <body>
         <h1>Mikey Organization HTML Document</h1>
@@ -13,22 +14,133 @@
         </p>
         <section id="TimeSection">
             <h2>Time Widget goes here </h2>
+            <p style="text-align: center;" id="current-time"></p>
+            <h5>Be sure to include Time of sunrise, how many daylight hours is left, time of sunset. I want to maximize my time in the sun for health reasons. A lot of the house maintainance or coding can be done when the sun is down.</h5>
+
+<script>
+function displayCurrentTime() {
+  var currentTime = new Date();
+  var hours = currentTime.getHours();
+  var minutes = currentTime.getMinutes();
+  var seconds = currentTime.getSeconds();
+
+  // Add leading zero if minutes or seconds are less than 10
+  minutes = minutes < 10 ? '0' + minutes : minutes;
+  seconds = seconds < 10 ? '0' + seconds : seconds;
+
+  var currentTimeString = hours + ':' + minutes + ':' + seconds;
+  document.getElementById('current-time').innerHTML = currentTimeString;
+}
+
+// Call the function to display the current time immediately
+displayCurrentTime();
+
+// Update the time every second
+setInterval(displayCurrentTime, 1000);
+</script>
         </section>
+
         <section id="CalendarSection">
             <h2>Calendar Widget goes here</h2>
+            <table id="calendar">
+                <thead>
+                  <tr>
+                    <th>Sun</th>
+                    <th>Mon</th>
+                    <th>Tue</th>
+                    <th>Wed</th>
+                    <th>Thu</th>
+                    <th>Fri</th>
+                    <th>Sat</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- Calendar days will be inserted here dynamically -->
+                </tbody>
+              </table>
+              <h2></h2>
+              <p>For the Calendar, I want it to connect to my Google Database, or my own personal database. I want it to show: My project deadlines. I have to review how the modern calendar sites are doing it.</p>
+              <P>Timeline Events should be close to the calendar.</P>
+              <script>
+              function createCalendar(year, month) {
+                var date = new Date(year, month - 1, 1);
+                var tableBody = document.getElementById('calendar').getElementsByTagName('tbody')[0];
+                var daysInMonth = new Date(year, month, 0).getDate();
+                var dayOfWeek = date.getDay();
+              
+                var row = document.createElement('tr');
+                for (var i = 0; i < dayOfWeek; i++) {
+                  row.appendChild(document.createElement('td'));
+                }
+              
+                for (var day = 1; day <= daysInMonth; day++) {
+                  var cell = document.createElement('td');
+                  cell.textContent = day;
+                  row.appendChild(cell);
+              
+                  if (++dayOfWeek === 7) {
+                    tableBody.appendChild(row);
+                    row = document.createElement('tr');
+                    dayOfWeek = 0;
+                  }
+                }
+              
+                // Add the last row
+                if (dayOfWeek > 0) {
+                  for (var i = dayOfWeek; i < 7; i++) {
+                    row.appendChild(document.createElement('td'));
+                  }
+                  tableBody.appendChild(row);
+                }
+              }
+              
+              // Call the function to create the calendar for the current month
+              var currentDate = new Date();
+              createCalendar(currentDate.getFullYear(), currentDate.getMonth() + 1);
+              </script>
         </section>
+
         <section id="CurrentStatusSection">
-            <details open>
+            <details>
                 <summary>Physical</summary>
                 <p>Insert Graph Here. Insert the Goal Here.</p>
+                <canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+// Data for the graph
+var labels = ['January', 'February', 'March', 'April', 'May', 'June'];
+var data = [65, 59, 80, 81, 56, 55];
+
+// Create the graph
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Data',
+            data: data,
+            backgroundColor: 'rgba(54, 162, 235, 0.2)', // Color for the bars
+            borderColor: 'rgba(54, 162, 235, 1)', // Border color for the bars
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+</script>
 
             </details>
         </section>
         <section>
-            <details open>
+            <details>
                 <summary>Mental</summary>
-                <details open>
-                    <summary>Education</summary>
+                <details>Education</summary>
                     <p>Goal: Get the Software Engineering Degree.
                         <br> Be sure to keep track of AHA moments.
                     </p>
@@ -40,7 +152,7 @@
             </details>
         </section>
         <section>
-            <details open>
+            <details>
                 <summary>Social</summary>
                 <p>23 March 2024
                     <br>hung out with:
@@ -115,6 +227,7 @@
             </section>
 
         </section>
+        <h2>Why aren't you living the dream now? Tomorrow isn't a promise.</h2>
     </body>
 
 </html>
