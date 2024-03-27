@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <title>Mikey Organization</title>
+        <meta charset="UTF-8"
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Mikey Organization</title>
         <link rel="stylesheet" type="text/css" href="style.css" />
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     </head>
@@ -37,6 +38,40 @@ displayCurrentTime();
 
 // Update the time every second
 setInterval(displayCurrentTime, 1000);
+</script>
+        </section>
+        <section>
+            <h2>Countdown to Midnight</h2>
+            <div id="countdown"></div>
+
+<script>
+function updateCountdown() {
+  // Get the current date and time
+  var now = new Date();
+  
+  // Set the target date to tomorrow
+  var targetDate = new Date(now);
+  targetDate.setDate(now.getDate() + 1);
+  targetDate.setHours(0, 0, 0, 0); // Set to midnight
+  
+  // Calculate the remaining time
+  var timeDiff = targetDate.getTime() - now.getTime();
+  var hours = Math.floor(timeDiff / (1000 * 60 * 60));
+  var minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
+  
+  // Format the remaining time
+  var countdownStr = hours + "h " + minutes + "m " + seconds + "s";
+  
+  // Update the countdown display
+  document.getElementById("countdown").innerText = countdownStr;
+}
+
+// Update the countdown every second
+setInterval(updateCountdown, 1000);
+
+// Initial call to update the countdown immediately
+updateCountdown();
 </script>
         </section>
 
@@ -232,11 +267,37 @@ var myChart = new Chart(ctx, {
             <h2>Chores</h2>
             <h3>House</h3>
             <h4>Car</h4>
+            <h4>Pantry</h4>
             <ul>
-                <li></li>
-            </ul>
+                <li><p>Pantry List</p>
+                <ul>
+                <li>Ground Beef</li>
+                <li>Eggs</li>
+                <li>Tuna</li>
+                <li>Milk</li>
+                <li>Vegetables</li>
+                <li>Avocados</li>
+                <li>Spinach</li>
+                <li>Healthy Snacks</li>
+                <li>Carrots</li>
+                <li>Ranch Dressing</li>
+                <li>Brown Rice</li>
+                <li>Brown Bread</li>
+                </ul>
+                </li>
+                <li><p>Avoid:</p>
+                <ul>
+                <li>Cheese</li>
+                </ul>
+                </li>
+                </ul>
+                
         </section>
+        <section>
+            <blockquote>take your notes on Markdown.</blockquote>
+            <blockquote>Todo: I don't like that Food stays out overnight. I need to start cooking breakfast and dinner at the same time.</blockquote>
         <h2>Why aren't you living the dream now? Tomorrow isn't a promise. Get out there and live the dream a little bit. Your plans may go up in smoke.</h2>
+    </section>
     </body>
 
 </html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSON Interaction</title>
+</head>
+<body>
+    <h1>JSON Interaction</h1>
+    <button onclick="loadJSON()">Load JSON</button>
+    <div id="jsonContent"></div>
+
+    <script>
+        function loadJSON() {
+            // Create a new XMLHttpRequest object
+            var xhr = new XMLHttpRequest();
+
+            // Define the JSON file path
+            var url = "test.json";
+
+            // Open a new connection
+            xhr.open("GET", url, true);
+
+            // Define what happens on successful data retrieval
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    // Parse JSON data
+                    var data = JSON.parse(xhr.responseText);
+
+                    // Display JSON data
+                    document.getElementById("jsonContent").innerHTML = "<p>Strength: " + data.strength + "</p><p>Agility: " + data.agility + "</p>";
+                }
+            };
+
+            // Send the request
+            xhr.send();
+        }
+    </script>
+</body>
+</html>
