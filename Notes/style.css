@@ -19,6 +19,13 @@ summary {
     font-weight: 500;
 }
 
+@font-face {
+    font-family: "Dogica Pixel";
+    src: url(dogicapixel.ttf);
+}
+
 p {
     text-align: left;
+    font-family: "Dogica Pixel";
+    src: url(dogicapixel.ttf);
 }
