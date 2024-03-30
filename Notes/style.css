@@ -24,7 +24,7 @@ summary {
     src: url(dogicapixel.ttf);
 }
 
-p {
+.pixel {
     text-align: left;
     font-family: "Dogica Pixel";
     src: url(dogicapixel.ttf);
