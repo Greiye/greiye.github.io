@@ -52,7 +52,7 @@
    //Function to update Destiny Points count in Firebase
     function updateDestinyPoints(change) {
         // Get a reference to the Destiny Points node in Firebase
-        const destinyPointsRef = firebase.database().ref('Destiny Points');
+        const destinyPointsRef = firebase.database().ref('destinypoints');
 
         // Fetch the current count and update it
         destinyPointsRef.transaction(function(currentCount) {
@@ -61,11 +61,27 @@
         });
     }
     </script>
+
+    <!--Below is Firebase Display Destiny Points-->
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js"></script>
+<script>
+    const destinyPointsRef = firebase.database().ref('path/to/destinypoints');
+
+// Retrieve the value and display it
+destinyPointsRef.on('value', function(snapshot) {
+  const destinyPoints = snapshot.val();
+  console.log("destinypoints:", destinyPoints);
+  document.getElementById('destinypoints').innerText = "destinypoints: " + destinyPoints;
+});
+</script>
 </head>
 <body>
     <h1>Update Destiny Points</h1>
-    <button onclick="updateDestinyPoints()">Update Destiny Points</button>
-    <button onclick="updateDestinyPoints(1)">Add Destiny Point</button>
-    <button onclick="updateDestinyPoints(-1)">Subtract Destiny Point</button>
+    <div id="destinypoints"></div>
+    <button onclick="updatedestinypoints()">Update Destiny Points</button>
+    <button onclick="updatedestinypoints(1)">Add Destiny Point</button>
+    <button onclick="updatedestinypoints(-1)">Subtract Destiny Point</button>
+    <p>I don't know enough JS at the moment (2024 April 2) to print out the current Destiny Points from the Firebase Database.</p>
 </body>
 </html>
