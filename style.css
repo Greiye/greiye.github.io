@@ -1,48 +1,53 @@
 body {
-background-image: src("GridPaperBackground.png";
+background-color:#cac5c0;
+background-image: src("GridPaperBackground.png");
 background-size: contain, cover; /* Adjust as needed */
 background-repeat: no-repeat;
 }
 
-    h1 {
-      text-align: center;
-    }
+h1,h2,h3 {
+text-align: center;
+}
 
-    p {
-      text-align: center;
-    }
+p {
+text-align: center;
+}
 
-    .titlediv {
-      border: 1px solid black;
-      background-color: lightblue;
-      text-align: center;
-    }
+.titlediv {
+border: 1px solid black;
+background-color: lightblue;
+text-align: center;
+}
 
-    .shadowbox {
-      border: 1px outset brown; /* Adding border for visibility */
-      background-color: lightgray; /* Adding background color for visibility */
-      text-align: center;
-    }
+.shadowbox {
+border: 1px outset brown; /* Adding border for visibility */
+background-color: lightgray; /* Adding background color for visibility */
+text-align: center;
+}
 
 
 h1,
 p {
-  font: 1em "Fira Sans", sans-serif;
-  text-align: center;
+font: 1em "Fira Sans", sans-serif;
+text-align: center;
 }
 
 footer {
-  text-align: center;
+position: fixed;
+left: 0;
+bottom: 0;
+font-size: x-small;
+text-align: left;
 }
 
 .titlediv {
-  width: 50%; /* Adjust the width as needed */
-  border: 1px solid;
-  border-radius: 12px;
-  padding: 5px;
-  text-align: center;
-  margin: 0 auto; /* Center the element horizontally */
-  margin-bottom: 5px;
+width: 50%; /* Adjust the width as needed */
+border: 1px solid;
+border-radius: 12px;
+padding: 5px;
+text-align: center;
+margin: 0 auto; /* Center the element horizontally */
+margin-bottom: 5px;
 }
 
 .shadowbox {
