@@ -1,11 +1,12 @@
-The World of Erubounesu
-A world and DnD Tale, by Pat Wang and friends
+# The World of Erubounesu Wiki
+A DnD Tale and World
+by Pat Wang and friends
 
-Table of Contents
+## Table of Contents
 
 [The Tale of the Silver Dragon Guild](#the-tale-of-the-silver-dragon-guild)
 
-[Party Members]()
+[Party Members](party-members.md)
 
 [General Lore]()
 
@@ -89,7 +90,7 @@ Glossary	37
 Personal Journal Entries	37
 Auri:	38
 
-Locations
+# Locations
 
 (Organized by discovery)
 Assadorth - A small town.
@@ -115,7 +116,7 @@ The Western Swamp/Jungle
 
 
 
-Party members
+# Party members
 Seraphina “Sera” Flameheart - A Tiefling Cook, who wishes to prove herself to her family's lineage of cooks.
 Zephyr Ironfist - Half Elf Monk who solves every problem with punches. He seeks to solve the problem that is his father.
 Welt - A Human Doctor who seeks knowledge.
@@ -125,8 +126,8 @@ Thorvin Helmbreaker - (pronounced torr-vin) A young adult Dwarf Paladin. Wears a
 
 Sera Zephyr Welt Dezi Auri Thorvin
 
-Session 1
-The Blacksmith's Daughter
+# Session 1
+ The Blacksmith's Daughter
 (Oct 28 Approximate Start Date)
 
 The Region of Elsir Vale
@@ -141,7 +142,7 @@ Welt - Plague Doctor who seeks knowledge.
 Dezi - Halfling Artificer with a metallurgical disease that he wishes to cure.
 Auri - A seemingly blind Silver Dragonborn magic user who is looking for his lost dragonborn tribe. Joined the guild for magic.
 
-The Blacksmith’s Daughter
+# The Blacksmith’s Daughter
 
 They interview some of the local people around. Using their combined brain cell, they decipher that the best person to go to about the blacksmith's daughter is the blacksmith themselves.
 The party goes to the blacksmith's smithy. They meet Kane, a Halfling blacksmith. They find out several key pieces of information, her potential whereabouts, what she looks like:
