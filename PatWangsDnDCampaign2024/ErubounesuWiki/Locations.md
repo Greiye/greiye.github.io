@@ -1,4 +1,7 @@
-###### Assadorth
+# Locations
+[Back](ErubounesuWikiMain.md)
+
+## Assadorth
 A small town.
 Assadorth Locations | Info | Features
 -- | -- | --

@@ -1,3 +1,5 @@
+[Back](ErubounesuWikiMain.md)
+
 Magic School | Aura Color
 -- | --
 Conjuration | Faint Green / Blue

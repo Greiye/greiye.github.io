@@ -1,4 +1,6 @@
 ## Party Tracking Page
+[Back](ErubounesuWikiMain.md)
+
 Donkeys
 
 

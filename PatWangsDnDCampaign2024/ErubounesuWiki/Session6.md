@@ -1,5 +1,7 @@
 
 # Session 6
+[Back](ErubounesuWikiMain.md)
+
 Lost Child in the Caves
 Feb 4
 The party is in a jungle cave, in the midst of rescuing one of the Assadorth children.

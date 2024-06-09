@@ -1,4 +1,6 @@
 # Session 4
+[Back](ErubounesuWikiMain.md)
+
 The Kidnappings
 22 December, 2023
 

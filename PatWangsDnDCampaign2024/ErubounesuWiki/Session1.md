@@ -1,4 +1,6 @@
 # Session 1
+[Back](ErubounesuWikiMain.md)
+
 The Region of Elsir Vale
 
 Onesday, Firius 1, 1090

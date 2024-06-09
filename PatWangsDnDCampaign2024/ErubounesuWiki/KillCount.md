@@ -1,4 +1,5 @@
 # Kill Count
+[Back](ErubounesuWikiMain.md)
 
 Creature | Count | Session
 -- | -- | --

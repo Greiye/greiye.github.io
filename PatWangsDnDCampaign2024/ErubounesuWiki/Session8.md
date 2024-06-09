@@ -1,5 +1,6 @@
 # Session 8 After Training
-May 26?
+[Back](ErubounesuWikiMain.md)
+
 The Silver Dragon Guild once tasked inexperienced adventurers with rescuing a missing child. Now, they find themselves in a battle against a goblin cult conspiracy.
 
 Assadorth's mayor has sent the adventurers and another local group to retrieve four relics before the goblin cults can use them for their evil rituals. Time is critical as they race against both the cults and their rival party to secure the relics first.

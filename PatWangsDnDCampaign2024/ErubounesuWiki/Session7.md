@@ -1,6 +1,7 @@
 # Session 7
+[Back](ErubounesuWikiMain.md)
+
 Return the Child
-March 9 2024
 
 -----
 Destiny points

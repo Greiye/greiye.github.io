@@ -1,4 +1,6 @@
 # Session 5
+[Back](ErubounesuWikiMain.md)
+
 The Jungle Caves
 2024
 The group delves deeper into a Goblin encampment, hoping to rescue one of the missing Assadorth children.

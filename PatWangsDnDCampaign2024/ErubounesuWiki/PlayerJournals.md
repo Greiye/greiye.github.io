@@ -1,4 +1,6 @@
 ## Personal Journal Entries
+[Back](ErubounesuWikiMain.md)
+
 (This portion of the meta is supposed to be for players to write their own recap or journal entries, according to the PC. This gives the DM insight as to the players’ thoughts of the story thus far, and can also be a kind of journal for the other players to read through.)
 
 The Story thus far, according to the party:

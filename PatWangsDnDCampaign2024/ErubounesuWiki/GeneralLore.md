@@ -1,4 +1,5 @@
 # General Lore
+[Back](ErubounesuWikiMain.md)
 
 ## People
 Name | Desc and Notes

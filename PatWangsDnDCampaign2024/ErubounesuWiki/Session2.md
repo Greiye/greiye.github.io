@@ -1,4 +1,6 @@
 # Session 2
+[Back](ErubounesuWikiMain.md)
+
 ## Trouble in the Northern Plains
 Twosday Firius 2 1090
 

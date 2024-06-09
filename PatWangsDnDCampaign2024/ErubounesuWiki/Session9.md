@@ -1,6 +1,5 @@
-# Session 9 
-#### Ariella the Alchemist.
-2024-JUN-07
+# Session 9 Ariella the Alchemist
+[Back](ErubounesuWikiMain.md)
 
 #### Thorvinn Catches Up
 Rest from the previous battle
