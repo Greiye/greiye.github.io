@@ -18,9 +18,10 @@ Session | Title | Desc | Approx. Session Date
 10 | [Session 10 : Recap and Play](Session10.md)             | | TBA
 
 ## Glossary
-### [Party Members](party-members.md)
-### [General Lore](GeneralLore.md)
-### [Magic Aura Color Guide](Magic-Color-Guide.md) 
-### [Locations](Locations.md)
-### [Kill Count](KillCount.md)
-### [Player Journals: Auri](PlayerJournals.md)
+[Party Members](party-members.md)<br>
+[Party Stats to Track and Homebrew Rules](PartyTrackingSheet.md)<br>
+[General Lore](GeneralLore.md)<br>
+[Magic Aura Color Guide](Magic-Color-Guide.md)<br> 
+[Locations](Locations.md)<br>
+[Kill Count](KillCount.md)<br>
+[Player Journals: Auri](PlayerJournals.md)<br>

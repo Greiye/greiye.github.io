@@ -6,6 +6,9 @@
 The Story thus far, according to the party:
 
 ### Auri:
+
+![AuriFace](Auri.jpg)
+
 (This journal entry looks to be written in a kind of primitive braille. There are little boxes that look to have been formed by a talon or claw of some sort, with little dots pressed into the paper.)
 
 Foursday, Firion 4. 1090
