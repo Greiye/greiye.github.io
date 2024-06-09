@@ -23,4 +23,4 @@ Session | Title | Desc | Approx. Session Date
 ### [Magic Aura Color Guide](Magic-Color-Guide.md) 
 ### [Locations](Locations.md)
 ### [Kill Count](KillCount.md)
-### [Player Journals: Auri](KillCount.md)
+### [Player Journals: Auri](PlayerJournals.md)
