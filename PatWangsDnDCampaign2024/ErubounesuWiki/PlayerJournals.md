@@ -1,13 +1,9 @@
-
-
-
-
-# Personal Journal Entries
+## Personal Journal Entries
 (This portion of the meta is supposed to be for players to write their own recap or journal entries, according to the PC. This gives the DM insight as to the players’ thoughts of the story thus far, and can also be a kind of journal for the other players to read through.)
 
 The Story thus far, according to the party:
 
-## Auri:
+### Auri:
 (This journal entry looks to be written in a kind of primitive braille. There are little boxes that look to have been formed by a talon or claw of some sort, with little dots pressed into the paper.)
 
 Foursday, Firion 4. 1090

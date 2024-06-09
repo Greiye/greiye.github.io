@@ -1,11 +1,10 @@
 # Session 2
-# Trouble in the Northern Plains
-(RWD 3DEC2023)
+## Trouble in the Northern Plains
 Twosday Firius 2 1090
 
 In Boar Forest
 Party wakes at 5am, close to sun up, hungry. Group decides to forage for food (the group goes to get boar; Auri goes fishing).
-While hunting for boars, the group meets a couple; both bear the symbol of the guild:
+While hunting for boars, the group meets a couple; both bear the symbol of the Silver Dragon Guild:
 
 Lady Cass takes the form of a beautiful human woman whose clothes are immaculately clean. Her guild symbol is on her necklace. 
 Thorvin is a young dwarf paladin man, adorned with a black and red hooded chainmail. In his hands, a warhammer and shield with the guild’s symbol at the front.

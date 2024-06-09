@@ -11,8 +11,6 @@ Kobold took the Relic.
 End of Session 6
 Level Up to Lvl 3
 
-Thrown in Data March 9
-
 
 In the room with vines hanging overhead: Goblins begin to move in. Auri and Dezi hear them talking.
 
