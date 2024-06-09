@@ -61,16 +61,3 @@ Auri camps with the donkeys to keep them safe.
 
 End of session
 
-Session 10 Recap
-- The Party is in the Faelands to find the Dragon God’s Relics before the Golden Dawn Brigade and the Goblin Cultists.
-- Just left the mouth of the purple maze after killing the goblin wizard.
-- Currently in a pixie village.
-
-
-Meta
-
-
-
-
-Useful Discovered Lore (According to Auri the Dragonborn)
-

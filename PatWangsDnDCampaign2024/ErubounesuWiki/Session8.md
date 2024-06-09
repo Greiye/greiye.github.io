@@ -5,7 +5,7 @@ The Silver Dragon Guild once tasked inexperienced adventurers with rescuing a mi
 
 Assadorth's mayor has sent the adventurers and another local group to retrieve four relics before the goblin cults can use them for their evil rituals. Time is critical as they race against both the cults and their rival party to secure the relics first.
 
-Character Topics
+### Character Topics
 Auri - Vildremant knows where his tribe is. She says she wants artifacts.
 Dezi - What’s going on with his gray reptilian disease?
 Sera - How is she going to prove herself to her family?
@@ -14,7 +14,7 @@ Welt - What knowledge is he after?
 Zephyr - Where is his father?
 
 
-Party buys donkeys
+### Party buys donkeys
 -4 GP each for Auri and Welt’s Donkey, Allsight.
 -8 GP Sera for Donkey Petunia
 -8 GP Zephyr for Donkey Bartholomule
@@ -27,7 +27,7 @@ Zephyr sees tracks
 Trees moving on 1st watch
 Whole tree and trunk shook
 
-BATTLE Spider battle and Tree People
+# BATTLE Spider battle and Tree People
 Kill one spider
 A bunch of tree people who blend in with the bark and vines appear
 Tree people attack us, despite understanding common
