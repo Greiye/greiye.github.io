@@ -19,9 +19,10 @@ Session | Title | Desc | Approx. Session Date
 
 ## Glossary
 [Party Members](party-members.md)<br>
-[Party Stats to Track and Homebrew Rules](PartyTrackingSheet.md)<br>
+[Party Tracking Sheet](PartyTrackingSheet.md)<br>
 [General Lore](GeneralLore.md)<br>
-[Magic Aura Color Guide](Magic-Color-Guide.md)<br> 
+[Magic Aura Color Guide](Magic-Color-Guide.md)<br>
+[Homebrew Rules](HomebrewRules.md) 
 [Locations](Locations.md)<br>
 [Kill Count](KillCount.md)<br>
 [Player Journals: Auri](PlayerJournals.md)<br>
