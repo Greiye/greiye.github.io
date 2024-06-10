@@ -1,21 +1,28 @@
 ## Party Tracking Page
 [Back](ErubounesuWikiMain.md)
 
+
+# Player Tracking Sheet
+
 # Party Supplies
-Mounts
-Donkeys
-
-## Destiny Points(Inaccurate)
-Destiny/Inspiration Points | Count
+Entity | Desc |
 -- | --
-Sera | 8
-Zephyr | ?
-Welt | ?
-Dezi | 8
-Auri | 0
-Thorvin | 0
+Donkeys | Bartholomule, Allsight and Petunia the Boy
+Kane's Coin | Tells the Yes/No Truth like 10x a day, with 1 word answer a day. (Need to change this into a treasure paragraph.)
+Shortsword Relic | Needed by the Goblin Cultists. Lorelia Vildremant wants this for her Bard partymember. Something like a singing fish. Has runes written in Infernal.
 
-Destiny Points are inaccurate at the moment.
+## Destiny Points
+Player | Points
+-- | -- 
+Auri | 0
+Dezi | 8
+Zephyr | ?
+Thorvinn | ?
+Sera | 8
+Welt | ?
+
+Points Reciepts
+- Auri used all points to save Thorvinn from gelatinous cube.
 
 ## Money (Inaccurate)
 Type | Count
