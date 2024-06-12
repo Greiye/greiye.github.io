@@ -634,3 +634,30 @@ Magic is the future, mages forcing people to take mana
 [PaperComputerHybridGame](PaperComputerHybridGame)
 [DnD-Risk-Troops](RiskTroops.md)
 [Inspirations](Inspiration.md)
+
+
+
+
+
+
+
+[Mikey’s Characters (Organized by Class)](MikeyCharacters.md)
+
+[CharacterDevelopmentQuestionnaire](CharacterDevQuestions.md)
+
+
+[Towns to Work On](MikeyTowns.md)
+
+[ShortstoryTech](ShortstoryTech.md)
+
+
+[100 Points Balance : The Aether](100-Points-of-theAether.md)
+
+
+
+
+
+
+
+[JasonNotes](Jasonnotes.md)
+

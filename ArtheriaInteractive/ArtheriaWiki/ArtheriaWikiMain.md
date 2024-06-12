@@ -23,75 +23,31 @@ Chronological Order of Past Sessions
 
 [Current Era](CurrentEra.md)
 
-[Past Sessions Events: Church of the First](StGabrielChurchoftheFirst.md)
+Past Sessions | Desc
+-- | --
+[Past Sessions Events: Church of the First](StGabrielChurchoftheFirst.md) | The First Long Campaign of Michael starring Josh, Jason, Liv, Kuya Rev.
+[Sand of Sornes](SornesSession.md) | Andy and Mikey
+[Newharf Diseased Goblins? I could be wrong.](NewharfDiseasedGoblins.md) | Joseph and Jaimee
+[SinsofTheFather](SinsOfTheFather.md) | Drew and his Crew
+[Xantara](Xantara.md) | Jaimee
+[Nezra](Nezra.md) | Jaimee, Josh
+[Ramssess](Ramssess.md) | Andy
+[Biliran: Scorched Earth](BiliranScorchedEarth.md) | Jason's First Session
+[Kori](KoriTale.md) | Jason's first long session for Mike and Liv
+[Kazka's Tale](TaleofKazka.md) | Jason's Warlock Adventurer
+[Veilo: The Mercenary](TaleofVeilo.md) | Mike's first character concept, elaborated on by Jason
+[Kazka and Raq](KazkaRaq.md) | Mikey Development on Kazka, Jason's Warlock
+[Nezra, Yoshua, Ramses, Saint Gabriel, and the Rancher Leopold Session 15](The-Scorpion-and-the-Rancher.md) | Silly Funny Adventure
+[Zeph Rolegate Story](ZephStory.md) | Story I did on Rolegate years ago, circa 2019? When I was trucking.
 
-[Sand of Sornes](SornesSession.md)
-
-[Newharf Diseased Goblins? I could be wrong.](NewharfDiseasedGoblins.md)
-
-[SinsofTheFather](SinsOfTheFather.md)
-
-[Xantara](Xantara.md)
-
-[Nezra](Nezra.md)
-
-[Ramssess](Ramssess.md)
-
-[Biliran: Scorched Earth](BiliranScorchedEarth.md)
-
-[Kori](KoriTale.md)
-
-[Kazka's Tale](TaleofKazka.md)
-
-[Veilo: The Mercenary](TaleofVeilo.md)
-
-[Kazka and Raq](KazkaRaq.md)
-
-[Nezra, Yoshua, Ramses, Saint Gabriel, and the Rancher Leopold Session 15](The-Scorpion-and-the-Rancher.md) 
-
-[Discovered Lorebooks](Lorebooks.md)
-
-[Heroes, Villains People and Characters](Characters.md)
-
-[The Powerful Gods](TheGods.md)
-
-[Monsters and Creature Types](Monsters-and-Creature-Types.md)
-
-[Unique Creatures](Unique-Creatures.md)
-
-[Mystical Artifacts](Mystical-Artifacts.md)
-
-[Magic Systems and Various ](Magic-and-Systems.md)
-
-[Planned Future Sessions or Unplanned Adventures](Planned-Future-Sessions-or-Unplanned-Adventures.md)
-
-[Lore Fuel](LoreFuel.md)
-
-[PaperComputerHybridGame](PaperComputerHybridGame)
-
-[DnD-Risk-Troops](RiskTroops.md)
-
-[Inspirations](Inspiration.md)
-
-[The Last of the First: Ending the First DnD Campaign.](LastoftheFirst.md)
-
-[Mikey’s Characters (Organized by Class)](MikeyCharacters.md)
-
-[CharacterDevelopmentQuestionnaire](CharacterDevQuestions.md)
-
-[Organizations](Organizations.md)
-
-[Towns to Work On](MikeyTowns.md)
-
-[ShortstoryTech](ShortstoryTech.md)
-
-
-
-[100 Points of the Aether](100-Points-of-theAether.md)
-
-[The Patron](ThePatron.md)
-
-[Zeph Rolegate Story](ZephStory.md)
-
-[JasonNotes](Jasonnotes.md)
-
+Information for the Player | Desc |
+-- | -- 
+[Discovered Lorebooks](Lorebooks.md) | Books found in game
+[Heroes, Villains People and Characters](Characters.md) | All Characters
+[The Powerful Gods and Entities](TheGods.md) | All Gods
+[Monsters and Creature Types](Monsters-and-Creature-Types.md) | Some Common Creature Types. Helps with Dungeon Design.
+[Unique Creatures](Unique-Creatures.md) | Creatures made in game
+[Mystical Artifacts](Mystical-Artifacts.md) | Part of the 100PT Balance System
+[Magic Systems and Various ](Magic-and-Systems.md) | An explanation of the magic of Artheria.
+[Organizations and Factions](Organizations.md) | Groups of People
+[The Aetheric Balance](100-Points-of-theAether.md) | The world is in balance. When one door closes, another opens.
