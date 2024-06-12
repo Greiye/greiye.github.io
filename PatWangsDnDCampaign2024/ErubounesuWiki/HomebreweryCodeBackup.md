@@ -162,7 +162,7 @@ A ruckus ensues, which ends with these adventurers sitting close to each other.
 The Dragonborn's bandage over his eyes make for a conversation between all of them. It bears the symbol of the Silver Dragon Guild.
 Through conversation, they realize that each of them all affiliated with the Silver Dragon Guild.
 
-they quickly introduce themselves and agree to work together
+they quickly introduce themselves and agree to work together.
 
 Name | Race and Occupation
 -- | -- 
@@ -305,6 +305,7 @@ They find a puzzle and a note
 “Footprints”
 Magical footprints lead to the corner of the room. A loose rock switch is discovered. The wall slides up, revealing that the magic footprints leads downstairs .Thorvinn detects undead further down.
 
+\page
 ### Treasure
 Thorvinn discovers a treasure room
 {{note
@@ -331,7 +332,7 @@ Find The Relic.
 Do Not Fail Me.
 }}
 
-
+\pag
 ### We should not delve Further
 The group decides to head back to town. It's a day and a half trip. Delving down further will have to wait for another day.
 ### Return to Assadorth
@@ -391,6 +392,8 @@ Welt commissions for a kind of leather carrier for Dezi and Zephyr.
 Auri buys hide armor for 9gp from Tanner the Tanner(Leatherworker) and a Rapier for 25gp. Also caltrops and manacles. The 16 goblin ears begin to rot in his pack. Auri asks if any townsfolk collect these ears as a mark of lessened goblins. They tell him no. Seeing no use to the ears, Auri discreetly throws them in a random ditch by the roadside. 
 
 Auri asks the locals if they've seen any silver dragonborns like him around. The Locals share that more information about them can be found in Brindol, Specifically from those that follow Bahamut. The chromatic dragon God would know about all of his subjects. They also tell him to check with the wizard up in the tower.
+
+\page
 
 ### Oddman of the Party
 Auri earns 3 gold trying to pass as a blind beggar. Dezi and Welt throw stones at him.
@@ -457,8 +460,12 @@ With newfound power, Welt uses dark magic to talk to a black cat. Welt asks the 
 The black cat named Stevie gestures like a hound dog and points west with his snout.
 “Speak to the other side of town. Find a brown cat named Freddy, who guards that side of Assadorth.”
 (Someone mention the Golden Dawn Brigade? Who is Captain Rivas? Three injured goblins?)
+:::::::
+
 ### The Mayor’s Manor
 The group go to the Mayor’s Husk’s Manor (That also doubles as a kind of schoolhouse). Sera kicks the door down to Mayor Husk’s abode. The party interrupts the Mayor’s meeting with 5 other people:
+![Mayor Husk](https://github.com/Greiye/greiye.github.io/blob/main/PatWangsDnDCampaign2024/images/MayorHusk.png?raw=true) {width:320px,border:"1px solid",border-radius:5px}
+This could be the first time they meet Mayor Husk.
 
 ### Adventuring Rivals
 -A Half Orc
@@ -526,6 +533,8 @@ An orc and a troll seem to be guarding an encampment. The orc is cooking meat ov
 The group plans their method of attack. Sera and Welt work together to create an illusion of a boar, in hopes that the orc is drawn to it. They are unsuccessful.
 
 With the plan having failed, Zephyr runs in and begins the assault.
+
+\page
 
 ### Battle: Goblins
 Zephyr punches the troll, only to find that the troll is an illusion. His punch phases past the troll. Thorvinn and Auri follow suit. The two of them focus on the orc. Sera and Welt provide support from the edge of the camp.
@@ -1165,13 +1174,13 @@ Lunesta, 14th, Morning Time.<br>
 54 Years since the passing of Himmel
 }}
 
-#### {{color:DarkRed Thorvinn}} Catches Up
+### {{color:DarkRed Thorvinn}} Catches Up
 
 The party rests from the previous battle with the tree people and the spiders.<br>
 
 The dwarven paladin **Thorvinn** catches up with the party. He notices that among the party, there’s a kobold dressed as Welt.
 
-###### The Human Welt turned Kobold
+### The Human Welt turned Kobold
 "Hi." Says the Kobold.
 
 #### The Hunt for the Relic
@@ -1184,40 +1193,89 @@ Completely black.
 
 Auri takes a look. It's all gold-colored mana emenating from the equipment inside.
 
-#### Ariella, the Elven Alchemist
-Talk for a little bit.
+### Ariella, the Elven Alchemist
 
-##### {{color:DarkGray Dezi's Arm}}
-Bring up Dezi's metal disease.
-Source of corruption southeast. Potential location of relic?
-Ariella says she will provide Alchemist Services in exchange for spring water. Quest.
+![Sunrise Hosted Image](https://github.com/Greiye/greiye.github.io/blob/main/PatWangsDnDCampaign2024/images/Ariella.jpeg?raw=true) {width:320px,border:"1px solid",border-radius:5px}
+The group talks with Ariella for a little bit. Zephyr is slightly smitten by her.
+
+### {{color:DarkGray Dezi's Arm}}
+Auri brings up Dezi's metal disease. From a distance away, he remembers his infliction. Auri picks Dezu up by the armpits and rushes over to show his exposed are to Ariella.
+
+**Ariella**
+
+" I believe that there is a source of corruption Southeast of here. "
+
+Is this a potential location of relic?
+
+**Ariella**
+
+"I will provide Alchemist Services in exchange for spring water. 
+
+This is a Quest.
 Donkeys cared for, for a little bit.
 Travel to get water for Ariella as a sidequest. The spring is about 1.5 days out from Ariella’s hut.
 Given potions
+:
+The group leaves.
 
-#### The Springwater Quest
+
+\page
+### Ariella's Springwater Quest
 Surrounding area starts looking purple.
 Party wakes up in a maze where everything is purple. Purple leaves, grass, etc.
 
 
-### Travelling and waking to the Purple Haze
+### The Purple Haze
 Party event occurs, something about potions.
 
 
 
-### The Goblin Wizard
+### The Goblin Wizard and Friend
 See a goblin wizard with a pink pointy hat.
 Behind the goblin is an overpass. Pass the overpass, a large garden maze.
 Someone in the group sees a blur. (The sneaky kobold from before?)
-Some people pass the goblin 10 gold per head to get to the fountain.
+
+
+### Auri's Threat
+
+**Goblin Wizard**
+
+"You each must pay 20 gold if you desire to travel past this overpass, into the spring fountains."
+:
+Auri steps toward the goblin.::
+He drops a ring of partially rotten goblin ears to the ground. Auri looks in the general direction of the wizard.::
+**Auri**
+
+"... Do you and your friend wish to add to the ring?"
+:
+**Goblin Wizard**
+
+"...10 gold."
+
+### Pay the Toll
+Everyone pays the toll of 10 gold to pass. Only Auri, Zephyr and the donkeys are left.
+
+
+### Auri's Insult
+Auri mocks the goblin by shaping his waterbag’s contents into a smaller Auri, constantly killing the 2 goblins in front of him. This ultimately is the reason for the battle starting. 
+
+**Sera**
+"We'll pay you more gold, yes? Just stop this attack on our Dragonborn."
+
+:
+**Goblin Wizard:**
+
+“The rest of you are fine. The donkeys are safe as well."
+
+"your Dragonborn, however, will pay for this disrespect *with his life*.”
+
+### The Red Cap
+The goblin companion was an illusion. It was actually a Red Cap.
+
 Auri insults the goblins wizard using a frozen deer carcass from his backpack and a slightly rotten ring of goblin ears.
-A red cap is summoned.
 
-#### Insult
-Auri mocks the goblin by shaping his waterbag’s contents into a smaller Auri, constantly killing the 2 goblins in front of him. This ultimately is the reason for the battle starting. Goblin Wizard: “The rest of you are fine, your friend however, will pay for this disrespect with his life.”
-::
 
-\page
+
 ### Battle: Goblin Wizard and Red Cap
 Goblin Wizard attacks Auri.
 
@@ -1254,7 +1312,7 @@ Mayor gave the party each 3 healing potions and adventuring supplies.
 
 
 
-#### The Garden Maze
+### The Garden Maze
 A place of purple leaves and foliage.
 
 
@@ -1264,14 +1322,14 @@ A place of purple leaves and foliage.
 "This is the spring of life. Do not take from it."
 }}
 
-#### Ariella's Lies
+### Ariella's Lies
 Group decides to go elsewhere. Ariella said she used to collect water from here all the time. The signs and the goblin wizard say otherwise to that statement.
 
 
-#### Pixie Town
+### Pixie Town
 Town that Ariella mentioned is full of pixies.
 
-#### The Druidic Inn
+### Resting at the Druidic Inn
 Group rests at an inn run by a druid.
 Auri camps with the donkeys to keep them safe.
 <br>
