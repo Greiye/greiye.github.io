@@ -1,0 +1,2 @@
+Black Bay
+Kingdom that sees Amethyst Peak as Rival, They besieged Anarch and Amethyst Peak before. “We’ll take land and sea”. Black Bay has previously tried to domesticate ‘Aquateras’, a beast equal to a timid dragon. This was when a heroic group called the Crucibles came in to stop them. (Forest Power Rangers)
