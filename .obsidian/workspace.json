@@ -11,15 +11,8 @@
             "id": "983892b8d28fcf2a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +139,9 @@
   },
   "active": "983892b8d28fcf2a",
   "lastOpenFiles": [
-    "2024-06-14.md",
+    "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
     "Untitled.canvas",
+    "2024-06-14.md",
     "2024-06-13.md",
     "ArtheriaInteractive/ArtheriaWiki/AmethystPeak.md",
     "ArtheriaInteractive/ArtheriaWiki/AllHistory.md",
