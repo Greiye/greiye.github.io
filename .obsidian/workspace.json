@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cadc6a133b49ec43",
+        "id": "f0b8febb7ede0e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "983892b8d28fcf2a",
+            "id": "6fb4f147aca804bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f58aa7ce53a5380b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Twoshot Rough Draft.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twoshot Rough Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twoshot Rough Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Twoshot Rough Draft.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,12 +137,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f58aa7ce53a5380b",
+  "active": "6fb4f147aca804bf",
   "lastOpenFiles": [
-    "README.md",
-    "Twoshot Rough Draft.md",
-    "Untitled.canvas",
     "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
+    "Twoshot Rough Draft.md",
+    "README.md",
+    "Untitled.canvas",
     "FamilyHistoryProject/MomsChildhoodHome.png",
     "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
     "2024-06-14.md",
