@@ -1,5 +1,6 @@
 # Amethyst Peak
 
+[[Cities-and-Towns]]
 ## History
 Known as the City of Dragons, Amethyst Peak is a kingdom that sits atop Artheria's tallest volcano. It was founded by Anarch, the Deity of Lachesism, thousands of years ago. The location was home to an abundance of dragons, which Anarch associated with absolute power after witnessing the magic possessed by the Elder Dragons of Arcavios. He aimed to tame these dragons in an attempt to harness their magic.
 

@@ -7,3 +7,6 @@ Petrichor is a popular god of Agriculture in this part of the Hymlie Principalit
 
 ## Aralon’s Goal:
 A Peaceful life is its own reward. Everyone has a right to it. Acknowledge it, cherish it, for when it is gone in the storm of life, it is all that you wish you had.
+
+[[Cities-and-Towns]]
+
