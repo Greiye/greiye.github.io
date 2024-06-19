@@ -50,4 +50,4 @@ Information for the Player | Desc |
 [Mystical Artifacts](Mystical-Artifacts.md) | Part of the 100PT Balance System
 [Magic Systems and Various ](Magic-and-Systems.md) | An explanation of the magic of Artheria.
 [Organizations and Factions](Organizations.md) | Groups of People
-[The Aetheric Balance](100-Points-of-theAether.md) | The world is in balance. When one door closes, another opens.
+[The Aetheric Balance](Table-100-Points-of-the%20Aether.md) | The world is in balance. When one door closes, another opens.

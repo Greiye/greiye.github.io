@@ -651,7 +651,7 @@ Magic is the future, mages forcing people to take mana
 [ShortstoryTech](ShortstoryTech.md)
 
 
-[100 Points Balance : The Aether](100-Points-of-theAether.md)
+[100 Points Balance : The Aether](Table-100-Points-of-the%20Aether.md)
 
 
 
