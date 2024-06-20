@@ -1,37 +1,54 @@
-What is it?
+### Overview
 
-Closed Ecosystem of 100 Points in the world. Nothing is gained or lost. Simply transmuted to another from.
+The Aether System is a closed mana/magic ecosystem in which 100 points circulate throughout the world, ensuring that nothing is gained or lost but rather transmuted into different forms. This system is the foundation of a unique magical world where materials, entities, and constructs interact in a perpetual cycle of energy and transformation.
 
-Materials/Elements
-Base System point. Usually becomes something else. 100 Materials. Consult Real world Periodic Table of Elements, Something like 118 Elements. All Materials imbued with mana.
+### Materials/Elements
+
+Materials are the base units of the system, corresponding to the elements of the real-world periodic table, totaling 118. Each material is imbued with mana, the vital force that allows transmutation and the manipulation of the aether points.
 
 ### Entities/Pantheons
-Born from Materials and Mana. 
 
-#### Lvl 5 God/Goddess Type
-Can be all creature types. Can Influence the world. Cannot take a physical body. They can present themselves as an image. The cost of not needing a body is that a god can be forgotten. When a God is forgotten, they must stay in a structure or a portal or resign their powers to a person or creature. They cannot downgrade to lower entity type. 
+Entities, ranging from minor spirits to powerful gods, are born from the combination of materials and mana. They exist on different levels, each with distinct capabilities and limitations.
 
-Pros
-They can reform any number of Aether Points given to them and bend it to their will or the will of their believers.
+#### Lvl 5: God/Goddess Type
 
-Cons
-They cannot have a physical form. Their bodies may enter a creature or other entity, but doing so hastens the host. 
+- **Capabilities**: Can influence the world extensively, reforming any number of aether points to their will or the will of their believers.
+- **Limitations**: Cannot take a physical body, presenting only as an image. If forgotten, they must reside in a structure, portal, or transfer their powers to another being. They cannot downgrade to a lower entity type.
+- **Pros**: Immense power and influence over the aether.
+- **Cons**: Cannot have a physical form and inhabiting a host hastens the host's decay.
 
-lvl 4 - Large Deity
-lvl 3 Deity
-lvl 2 Patron
-lvl 1 - Demi God/Hero. More capable than normal people.
+#### Lvl 4: Large Deity
 
+- **Capabilities**: Significant influence, can create major changes and inspire entire races.
+- **Limitations**: Limited physical presence, often requiring rituals or specific conditions to manifest.
 
+#### Lvl 3: Deity
+
+- **Capabilities**: Influence over large groups, capable of performing miracles and shaping societies.
+- **Limitations**: Needs to be worshipped to maintain power, otherwise fades into a dormant state.
+
+#### Lvl 2: Patron
+
+- **Capabilities**: Protects and empowers specific groups or locations.
+- **Limitations**: Limited scope, bound to their chosen domains or followers.
+
+#### Lvl 1: Demi-God/Hero
+
+- **Capabilities**: More capable than normal beings, with enhanced abilities and minor control over the aether.
+- **Limitations**: Mortal vulnerabilities, can be killed or defeated like any other powerful creature.
 
 ### Races
-Born from Entities/Pantheons
+
+Races are born from entities and pantheons, inheriting traits from their progenitors. They use the materials and mana to shape their societies and environments.
 
 ### Structures
-Created by Races/Entities using materials
+
+Structures are created by races and entities using materials. They serve as focal points of power, habitation, and worship.
 
 ### Portals
-Created by Entities that wanted their own structures, which are dimensions. A portal cannot last forever. They can only transport so many items through their threshold before dissipating
+
+Portals are gateways created by entities desiring their own dimensions. They are temporary and can only transport a limited number of items before dissipating.
 
 ### Artifacts
-Aether Levels describe their strength.
+
+Artifacts are objects of power, defined by their aether levels. They serve various purposes, from mundane tools to legendary weapons, each reflecting the strength and intent of their creators.
