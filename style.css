@@ -204,7 +204,7 @@ p {
 }
 
 .aboutme {
-  background: url("https://s3-us-west-2.amazonaws.com/files.bradengelhardt.com/brad-bg-main.jpg")
+  background: url("ModelBackground.jpg")
     no-repeat;
   background-size: cover;
 }
