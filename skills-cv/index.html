@@ -6,7 +6,8 @@
 <title>Mike – Skills CV</title>
 <style>
 :root{--bg:#fff;--fg:#1a1a1a;--mute:#666;--card:#f5f5f5;--gain:#2e9e4f;--need:#e07b1a}
-@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mute:#aaa;--card:#1e1e1e}}
+@media print{:root{--bg:#fff;--fg:#000;--card:#f5f5f5}}
+@media screen and (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mute:#aaa;--card:#1e1e1e}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
 main{max-width:720px;margin:0 auto;padding:24px 16px}
@@ -18,10 +19,15 @@ li{background:var(--card);border-left:6px solid var(--mute);border-radius:6px;pa
 .gain li{border-color:var(--gain)}
 .need li{border-color:var(--need)}
 .tag{font-size:.75rem;font-weight:600;padding:2px 8px;border-radius:10px;color:#fff;margin-left:6px}
+.d{color:var(--mute);font-size:.85rem;display:block}
 .g{background:var(--gain)}.n{background:var(--need)}
 footer{color:var(--mute);font-size:.85rem;margin-top:32px}
 a{color:inherit}
 </style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Mike","url":"https://greiye.github.io/skills-cv/","sameAs":["https://github.com/Greiye"],
+"knowsAbout":["Decision log and build planning","Dashboard pipeline design","Per-build analysis","Multi-LLM prototyping","Cross-platform browser deploy","Field testing across browser, exe and apk"]}
+</script>
 </head>
 <body>
 <main>
@@ -30,16 +36,16 @@ a{color:inherit}
 
 <h2>Skills gained <span class="tag g">gained</span></h2>
 <ul class="gain">
-<li>Decision log and build planning (Artheria web app project)</li>
-<li>Dashboard pipeline design across Claude Projects</li>
-<li>Per-build analysis</li>
+<li>Decision log and build planning (Artheria web app project)<span class="d">Nov 3–8, 2026</span></li>
+<li>Dashboard pipeline design across Claude Projects<span class="d">Nov 3–8, 2026</span></li>
+<li>Per-build analysis<span class="d">Nov 3–8, 2026</span></li>
 </ul>
 
 <h2>Skills in progress <span class="tag n">needed</span></h2>
 <ul class="need">
-<li>Build, then explain, code modules</li>
-<li>Hand-build a feature without AI</li>
-<li>Record debug logs</li>
+<li>Build, then explain, code modules<span class="d">Started Nov 2026</span></li>
+<li>Hand-build a feature without AI<span class="d">Started Nov 2026</span></li>
+<li>Record debug logs<span class="d">Started Nov 2026</span></li>
 </ul>
 
 <h2>Process</h2>
@@ -53,7 +59,7 @@ a{color:inherit}
 <li>Screenshots for CV</li>
 </ul>
 
-<footer>GitHub: <a href="https://github.com/Greiye">github.com/Greiye</a></footer>
+<footer><a href="cv.pdf">Download PDF</a> · Updated Nov 8, 2026 · GitHub: <a href="https://github.com/Greiye">github.com/Greiye</a></footer>
 </main>
 </body>
 </html>
