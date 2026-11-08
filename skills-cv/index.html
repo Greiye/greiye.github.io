@@ -23,10 +23,11 @@ li{background:var(--card);border-left:6px solid var(--mute);border-radius:6px;pa
 .g{background:var(--gain)}.n{background:var(--need)}
 footer{color:var(--mute);font-size:.85rem;margin-top:32px}
 a{color:inherit}
+ul.p{margin-top:6px}ul.p li{background:none;border:0;padding:2px 0 2px 14px;margin:0;position:relative;font-size:.95rem}ul.p li:before{content:"–";position:absolute;left:0;color:var(--mute)}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Person","name":"Mike","url":"https://greiye.github.io/skills-cv/","sameAs":["https://github.com/Greiye"],
-"knowsAbout":["Decision log and build planning","Dashboard pipeline design","Per-build analysis","Multi-LLM prototyping","Cross-platform browser deploy","Field testing across browser, exe and apk"]}
+"knowsAbout":["Decision log and build planning","Dashboard pipeline design","Per-build analysis","Multi-LLM prototyping","Cross-platform browser deploy","Field testing across browser, exe and apk","AI-directed app development","Phone and PC data sync with scoped access tokens","Progressive web app and Android deployment"]}
 </script>
 </head>
 <body>
@@ -39,6 +40,7 @@ a{color:inherit}
 <li>Decision log and build planning (Artheria web app project)<span class="d">Nov 3–8, 2026</span></li>
 <li>Dashboard pipeline design across Claude Projects<span class="d">Nov 3–8, 2026</span></li>
 <li>Per-build analysis<span class="d">Nov 3–8, 2026</span></li>
+<li>Phone and PC data sync with a scoped access token (Garage Health)<span class="d">Nov 6–8, 2026</span></li>
 </ul>
 
 <h2>Skills in progress <span class="tag n">needed</span></h2>
@@ -52,7 +54,14 @@ a{color:inherit}
 <h2>Shipped builds</h2>
 <ul>
 <li><a href="https://greiye.github.io/Artheria.ES.3D.Lore.Game/">Artheria 3D Lore Game</a></li>
-<li><a href="https://greiye.github.io/garage-health/">Garage Health</a></li>
+<li><a href="https://greiye.github.io/garage-health/">Garage Health</a>, a car maintenance app<span class="d">Built Nov 6–8, 2026 · AI-generated with Claude, directed by me</span>
+<ul class="p">
+<li>What it does: tracks parts, service history and inspections on a 3D model of the vehicle, and reads OBD-II data from an ELM327 adapter.</li>
+<li>Runs on any system: in the browser, as an installable PC app, and as an Android app.</li>
+<li>My part: I set the scope and priorities, reviewed and merged the changes, set up the private data repo and a fine-grained token, and confirmed that records sync between my PC and phone.</li>
+<li>Status: deployed for my own use. Not security-reviewed or hardened, so it is not ready for other users.</li>
+<li>Proof: <a href="https://github.com/Greiye/garage-health">public code repo</a> with dated commits. Build discussion is kept in Claude Projects and can be shown on request.</li>
+</ul></li>
 <li><a href="https://greiye.github.io/meditation-pulse/">Meditation Pulse</a></li>
 </ul>
 
